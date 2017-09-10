@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_CB_SAKHA_CIV_CUSTOM_NAME" Language="en_US">
+			<Text>Sakha</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CB_SAKHA_CIV_CUSTOM_DESCRIPTION" Language="en_US">
+			<Text>Sakha Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CB_SAKHA_CIV_CUSTOM_ADJECTIVE" Language="en_US">
+			<Text>Sakha</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CB_SAKHA_CIV_CUSTOM_DESCRIPTION_CB_SAKHA_CIVILIZATION" Language="en_US">
+			<Text>Sakha</Text>
+		</Row>
+
+		<!--RELIGION-->
+		<!-- The name of the religion. -->
+		<Row Tag="LOC_CIVINFO_CB_SAKHA_CIV_CUSTOM_RELIGION_NAME" Language="en_US">
+			<Text>Aiy</Text>
+		</Row>
+
+		<!-- Civilopedia information about the religion. -->
+		<Row Tag="LOC_CIVINFO_CB_SAKHA_CIV_CUSTOM_RELIGION_NAME_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>
+				Aiy are benevolent spirits in Yakuts mythology. They are creators of the world and of the fabulous land of the Yakut Olonkhos. In Sakha belief, creator of the world "Urung Ai Toyon", is the greatest of them.
+			</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CB_SAKHA_CIV_CUSTOM_RELIGION_NAME_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>
+				According to mythology, the Aiy live in the Upper World. It is believed that the Aiy will not accept blood sacrifice and therefore they are presented "victims" of vegetable and dairy products.
+			</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CB_SAKHA_CIV_CUSTOM_RELIGION_NAME_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>
+				Aiy symbols are required for the Ysyakh (spring feast) and regulated by the government of the Sakha Republic.
+			</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_CB_SAKHA_CIV_CUSTOM_LOCATION" Language="en_US">
+			<Text>Asia</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CB_SAKHA_CIV_CUSTOM_POPULATION" Language="en_US">
+			<Text>958,528</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CB_SAKHA_CIV_CUSTOM_SIZE" Language="en_US">
+			<Text>3.084 million km²</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CB_SAKHA_CIV_CUSTOM_CAPITAL" Language="en_US">
+			<Text>Yakutsk (from 1632 AD.)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CB_SAKHA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Siberia, in particular Yakutia, is of paleontological significance, as it contains bodies of prehistoric animals from the Pleistocene Epoch, preserved in ice or permafrost. In 2015, the frozen bodies of Dina and Uyan the cave lion cubs were found. The region was also host to the bodies of Yuka and another Woolly mammoth from Oymyakon, a Woolly rhinoceros from the Kolyma River, and bison and horses from Yukagir. The Turkic Sakha people or Yakuts probably settled in the area in the 13th and 14th centuries, migrating north from the Lake Baikal area to the middle Lena. From their new center along the middle Lena they gradually expanded northeast and west beyond the Lena basin towards the Arctic Ocean.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CB_SAKHA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The name Sakha is of Turkic origin, "saqa-saha" meaning "cue" or "bat". The term yakut is a Turkic word, a corruption of zhaqut - yakut "precious stone", referring to the ruby. The Sakha displaced earlier, much smaller populations who lived on hunting and reindeer herding, introducing the pastoralist economy of Central Asia. The indigenous populations of Paleosiberian and Tungusic stock were mostly assimilated to the Sakha by the 17th century. In August 1638, the Moscow Government formed a new administrative unit with the administrative center of Lensky Ostrog (Fort Lensky), the future city of Yakutsk, which had been founded by Pyotr Beketov in 1632.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CB_SAKHA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Russian settlers began to form a community in the 18th century, which adopted certain Yakut customs and was often called Yakutyane (Якутя́не) or Lena Early Settlers (ленские старожилы). However, the influx of later settlers assimilated them into the Russian mainstream by the 20th century. In an administrative reform of 1782, Irkutsk Governorate was created. In 1805, Yakutsk Oblast was split from Irkutsk Governorate.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CB_SAKHA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>On 27 April 1922, former Yakutsk Oblast was proclaimed the Yakut ASSR, although in fact the eastern part of the territory, including the city of Yakutsk, was controlled by the White Russians (see Yakut Revolt). In 1992, after the fall of the Soviet Union, Yakutia was recognized in Moscow as the Sakha (Yakutia) Republic under the jurisdiction of the Russian Federation. Yakutia is historically part of Russian Siberia, but since the formation of the Far Eastern Federal District in 2000, it is administratively part of the Russian Far East.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CB_SAKHA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Industry generates slightly above 50% of the gross national product of Sakha, stemming primarily from mineral exploitation. Industrial enterprises are concentrated in the capital Yakutsk, as well as in Aldan, Mirny, Neryungri, Pokrovsk, and Udachny. The diamond, gold and tin ore mining industries are the major focus of the economy. Uranium ore is beginning to be mined. Turkic-language Sakha are in politics, government, finance, economy and cattle-breeding (horses and cows for milk and meat). The Paleoasian indigenous peoples are hunters, fishermen, and reindeer herders. As of 2008, Sakha Republic is the 19th most developed federal subject in Russia.</Text>
+		</Row>
+
+
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_1" Language="en_US">
+			<Text>Tuymaada</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_2" Language="en_US">
+			<Text>Erkeeni</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_3" Language="en_US">
+			<Text>Engsiely</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_4" Language="en_US">
+			<Text>Nyuryuktey</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_5" Language="en_US">
+			<Text>Ilin-ener</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_6" Language="en_US">
+			<Text>Suntaar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_7" Language="en_US">
+			<Text>Nyurba</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_8" Language="en_US">
+			<Text>Suorkun</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_9" Language="en_US">
+			<Text>Kuurbat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_10" Language="en_US">
+			<Text>Muoma</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_11" Language="en_US">
+			<Text>Oktyom</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_12" Language="en_US">
+			<Text>Taatta</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_13" Language="en_US">
+			<Text>Byulyuu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_14" Language="en_US">
+			<Text>Mukhtuya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_15" Language="en_US">
+			<Text>Djarmonga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_16" Language="en_US">
+			<Text>Kebeeyi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_17" Language="en_US">
+			<Text>Aldan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_18" Language="en_US">
+			<Text>Nam</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_19" Language="en_US">
+			<Text>Churapchy</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_20" Language="en_US">
+			<Text>Khayalaakh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_21" Language="en_US">
+			<Text>Bulung</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_22" Language="en_US">
+			<Text>Suturuokha</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_23" Language="en_US">
+			<Text>Ytyk-Kyuyol</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_24" Language="en_US">
+			<Text>Tiksii</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_25" Language="en_US">
+			<Text>Batagay</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_26" Language="en_US">
+			<Text>Eldikan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_27" Language="en_US">
+			<Text>Bitim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_28" Language="en_US">
+			<Text>Hatay</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_29" Language="en_US">
+			<Text>Aartyk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CB_SAKHA_CIV_CUSTOM_30" Language="en_US">
+			<Text>Yolyuyokhyume</Text>
+		</Row>
+
+
+
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MALE_1" Language="en_US">
+			<Text>Kharakhaan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MALE_2" Language="en_US">
+			<Text>Eterbes</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MALE_3" Language="en_US">
+			<Text>Tuskun</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MALE_4" Language="en_US">
+			<Text>Taman</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MALE_5" Language="en_US">
+			<Text>Tuluy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MALE_6" Language="en_US">
+			<Text>Kirsakh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MALE_7" Language="en_US">
+			<Text>Baydam</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MALE_8" Language="en_US">
+			<Text>Uordaakh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MALE_9" Language="en_US">
+			<Text>Syurgen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MALE_10" Language="en_US">
+			<Text>Djalay</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_MALE_1" Language="en_US">
+			<Text>Aysen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_MALE_2" Language="en_US">
+			<Text>Nyurgun</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_MALE_3" Language="en_US">
+			<Text>Aytal</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_MALE_4" Language="en_US">
+			<Text>Ayaal</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_MALE_5" Language="en_US">
+			<Text>Michil</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_MALE_6" Language="en_US">
+			<Text>Kaskil</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_MALE_7" Language="en_US">
+			<Text>Aykhal</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_MALE_8" Language="en_US">
+			<Text>Uygulaan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_MALE_9" Language="en_US">
+			<Text>Uolan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_MALE_10" Language="en_US">
+			<Text>Sayaan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_FEMALE_1" Language="en_US">
+			<Text>Namyya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_FEMALE_2" Language="en_US">
+			<Text>Kharakhaana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_FEMALE_3" Language="en_US">
+			<Text>Doydusa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_FEMALE_4" Language="en_US">
+			<Text>Kirdaana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_FEMALE_5" Language="en_US">
+			<Text>Dagdayaana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_FEMALE_6" Language="en_US">
+			<Text>Symyhakhay</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_FEMALE_7" Language="en_US">
+			<Text>Khasaana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_FEMALE_8" Language="en_US">
+			<Text>Kingkhaana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_FEMALE_9" Language="en_US">
+			<Text>Altaana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_FEMALE_10" Language="en_US">
+			<Text>Kyhylkyomyus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_FEMALE_1" Language="en_US">
+			<Text>Kyunney</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_FEMALE_2" Language="en_US">
+			<Text>Tuyaara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_FEMALE_3" Language="en_US">
+			<Text>Sayiina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_FEMALE_4" Language="en_US">
+			<Text>Ayta</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_FEMALE_5" Language="en_US">
+			<Text>Uruydaana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_FEMALE_6" Language="en_US">
+			<Text>Sayaana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_FEMALE_7" Language="en_US">
+			<Text>Sakhayaana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_FEMALE_8" Language="en_US">
+			<Text>Karachaane</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_FEMALE_9" Language="en_US">
+			<Text>Nariyanaa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CB_SAKHA_CIV_CUSTOM_MODERN_FEMALE_10" Language="en_US">
+			<Text>Nyurguyaana</Text>
+		</Row>
+
+
+
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_CB_SAKHA_LEADER_CUSTOM_NAME" Language="en_US">
+			<Text>Elley Bootur</Text>
+		</Row>
+
+
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_CB_SAKHA_LEADER_CUSTOM" Language="en_US">
+			<Text>Great and mighty Elley, your fearlessness in the face of cold and heat, indefatigable desire to defend your honor and honor of your people will lead you through the long path of becoming a great country in far lands.</Text>
+		</Row>
+
+
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CB_SAKHA_LEADER_CUSTOM_TITLE" Language="en_US">
+			<Text>Elley "Meatlip" Bootur</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CB_SAKHA_LEADER_CUSTOM_SUBTITLE" Language="en_US">
+			<Text>Innovator, Cultural Hero</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CB_SAKHA_LEADER_CUSTOM_QUOTE" Language="en_US">
+			<Text> </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CB_SAKHA_LEADER_CUSTOM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>According to legends, the progenitor of all Sakha was Elley Bootur (Boğotur), who was of "Tatar" origin and who fled to the middle course of the Lena, running from "a great war or persecution". Elley Bootur married the daughter of Omogoy Bay, who had been of Mongol (Buryat) descent and who had also fled to the north when the wars during the Genghis Khan rule (?) broke out, and who settled down in the delta of the Chara River (a tributary of the Yolyuyokhyume) near the Lena about 300 miles from present-day Yakutsk.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CB_SAKHA_LEADER_CUSTOM_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The ritual funerary complexes correspond to the Ust-Talkin culture, which alongside with cranial features of the man enable us to associate Sergelyakh burial with Turkic part of the Sakha people, which is epically correlated with the legendary Elley Bootur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CB_SAKHA_LEADER_CUSTOM_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text> </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CB_SAKHA_LEADER_CUSTOM_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text> </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CB_SAKHA_LEADER_CUSTOM_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text> </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CB_SAKHA_LEADER_CUSTOM_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text> </Text>
+		</Row>
+
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Oh, I didn't know that I would meet lords here! I think... we will get along well.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>We would like to invite you to dinner -- kymys, sorat and so on. Your thoughts?</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Right you are! We're going to visit your country right now.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Let's compare our cities, lord!</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Hey, lord! Tell me.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Thanks for the delegation. We'll make a feast in your honor!</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Oh, I think we cannot accept your delegation right now.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>We have sent you a delegation. Feel free to talk, I want to know your story!</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>I appreciate that. This will give us new opportunities.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Oh, no way, lord...</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>I need a passage through your territory. Your thoughts?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Why fight when we can become friends, right?</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>No way, lord. It will not happen.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Hey, lord! I think we can become friends. Your thoughts?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Thank you!</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>It's a pity, but it's okay...</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Hey, lord! I think we can become stronger with an alliance. Your thoughts?</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>I like your serenity, lord. Keep it up!</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Do your people really respect you?</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Why are you showing me your military forces? Are you threatening us?</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Ha-ha! You're funny, lord. Watch your back.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>I'm so sorry that such a beautiful country haves such an unworthy ruler. Shame on you! (Denounces You)</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>Though I came to these lands for the sake of peace, but I am ready to accept the war. Prepare yourself, vermin!</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>I'm so tired of your ignorance. I'll end this now! Prepare yourself, vermin!</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>For the sake of peace then, lord!</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>No way, vermin, no way.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>I came to these lands for peace, not war.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>I failed my people. You can end this right now, but you cannot win, I'll be back soon... (Ascended To Heaven)</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY]</Text>
+		</Row>
+
+
+
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_CB_SAKHA_LEADER_CUSTOM_ECO_NAME" Language="en_US">
+			<Text>Son of the Gods</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CB_SAKHA_LEADER_CUSTOM_ECO_DESCRIPTION" Language="en_US">
+			<Text>+1 [Icon_Policy] Extra Wildcard Policy Slot in any government.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CB_SAKHA_GRIND_NAME" Language="en_US">
+			<Text>Legendary Legacy</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CB_SAKHA_GRIND_DESCRIPTION" Language="en_US">
+			<Text>+75% [Icon_Promotion] Experience for all units. When defeating a unit, you recieve [Icon_Gold] Gold equal to it's [Icon_Ability] Combat Strength.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_BUILDING_CB_SAKHA_CUSTOM_NAME" Language="en_US">
+			<Text>Yhyakh Place</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CB_SAKHA_CUSTOM_DESCRIPTION" Language="en_US">
+			<Text>+1 [Icon_Production] Production, +1 [Icon_Faith] Faith and +1 [Icon_Culture] Culture for each built place for a summer New Year celebration. It adds another +1 [Icon_GreatProphet] Great Prophet point.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_UNIT_CB_SAKHA_CUSTOM_NAME" Language="en_US">
+			<Text>Booturs</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CB_SAKHA_CUSTOM_DESCRIPTION" Language="en_US">
+			<Text>Sakha unique Classical era unit. Ranged unit with 4 [Icon_Movement] Movement with a 1 [Icon_Range] of Attack. Does not require Horses to build.</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_CB_SAKHA_CUSTOM_2_NAME" Language="en_US">
+			<Text>Great Booturs</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CB_SAKHA_CUSTOM_2_DESCRIPTION" Language="en_US">
+			<Text>Sakha unique Medieval era unit that replaces the Knight. Heals at the end of every turn, even after moving or attacking.</Text>
+		</Row>
+
+	</LocalizedText>
+</GameData>
