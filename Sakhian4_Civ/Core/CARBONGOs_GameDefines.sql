@@ -265,26 +265,42 @@ VALUES	('TRAIT_CIVILIZATION_CB_SAKHA_GRIND',						'LOC_TRAIT_CIVILIZATION_CB_SAK
 --------------------------------------------------------------------------------------------------------------------------			
 INSERT INTO TraitModifiers			
 		(TraitType,											ModifierId)
-VALUES	('TRAIT_CIVILIZATION_CB_SAKHA_GRIND',					'CB_TRAIT_EXP_ATK'),
-		('TRAIT_CIVILIZATION_CB_SAKHA_GRIND',					'CB_TRAIT_EXP'),
-		('TRAIT_CIVILIZATION_CB_SAKHA_GRIND',					'CB_TRAIT_GoldPerKill');																					
+VALUES  ('TRAIT_CIVILIZATION_CB_SAKHA_GRIND',					'CB_TRAIT_PASTURE_FOOD_BOOST'),
+		('TRAIT_CIVILIZATION_CB_SAKHA_GRIND',					'CB_TRAIT_FARM_TUNDRA_AVAILABLE'),
+		('TRAIT_CIVILIZATION_CB_SAKHA_GRIND',					'CB_TRAIT_TUNDRA_FOOD_BOOST'),
+		('TRAIT_CIVILIZATION_CB_SAKHA_GRIND',					'CB_TRAIT_TUNDRA_PRODUCTION_BOOST'),
+		('TRAIT_CIVILIZATION_CB_SAKHA_GRIND',					'CB_TRAIT_TUNDRA_HILLS_FOOD_BOOST'),
+		('TRAIT_CIVILIZATION_CB_SAKHA_GRIND',					'CB_TRAIT_TUNDRA_HILLS_PRODUCTION_BOOST');
+																			
 --------------------------------------------------------------------------------------------------------------------------
 -- Modifiers
 --------------------------------------------------------------------------------------------------------------------------
 INSERT INTO Modifiers	
-		(ModifierId,												ModifierType)
-VALUES	('CB_TRAIT_EXP_ATK',										'MODIFIER_PLAYER_UNITS_ADJUST_UNIT_ATTACK_EXPERIENCE_MODIFIER'),
-		('CB_TRAIT_EXP',											'MODIFIER_PLAYER_UNITS_ADJUST_UNIT_EXPERIENCE_MODIFIER'),
-		('CB_TRAIT_GoldPerKill',									'MODIFIER_PLAYER_UNITS_ADJUST_POST_COMBAT_YIELD');			
+		(ModifierId,								ModifierType,						SubjectRequirementSetId)
+VALUES	('CB_TRAIT_PASTURE_FOOD_BOOST',					'MODIFIER_PLAYER_ADJUST_PLOT_YIELD',			'PLOT_HAS_PASTURE_REQUIREMENTS'),
+		--('CB_TRAIT_FARM_TUNDRA_AVAILABLE',				'MODIFIER_PLAYER_UNITS_ADJUST_VALID_TERRAIN',		''),
+		('CB_TRAIT_TUNDRA_FOOD_BOOST',					'MODIFIER_PLAYER_ADJUST_PLOT_YIELD',			'PLOT_HAS_TUNDRA_REQUIREMENTS'),
+		('CB_TRAIT_TUNDRA_PRODUCTION_BOOST',			'MODIFIER_PLAYER_ADJUST_PLOT_YIELD',			'PLOT_HAS_TUNDRA_REQUIREMENTS'),
+		('CB_TRAIT_TUNDRA_HILLS_FOOD_BOOST',			'MODIFIER_PLAYER_ADJUST_PLOT_YIELD',			'PLOT_HAS_TUNDRA_HILLS_REQUIREMENTS'),
+		('CB_TRAIT_TUNDRA_HILLS_PRODUCTION_BOOST',		'MODIFIER_PLAYER_ADJUST_PLOT_YIELD',			'PLOT_HAS_TUNDRA_HILLS_REQUIREMENTS');
+
 --------------------------------------------------------------------------------------------------------------------------
 -- ModifierArguments
 --------------------------------------------------------------------------------------------------------------------------
 INSERT INTO ModifierArguments
-		(ModifierId,												Name,						Value)
-VALUES	('CB_TRAIT_EXP_ATK',										'Amount',					'75'),
-		('CB_TRAIT_EXP',											'Amount',					'75'),
-		('CB_TRAIT_GoldPerKill',									'YieldType',				'YIELD_GOLD'),
-		('CB_TRAIT_GoldPerKill',									'PercentDefeatedStrength',	'100');				
+		(ModifierId,					Name,						Value)
+VALUES  ('CB_TRAIT_PASTURE_FOOD_BOOST',					'YieldType',		'YIELD_FOOD'),
+		('CB_TRAIT_PASTURE_FOOD_BOOST',					'Amount',			'1'),
+		--('CB_TRAIT_FARM_TUNDRA_AVAILABLE',				'ImprovementType',	'IMPROVEMENT_FARM'),
+		--('CB_TRAIT_FARM_TUNDRA_AVAILABLE',				'TerrainType',		'TERRAIN_TUNDRA'),
+		('CB_TRAIT_TUNDRA_FOOD_BOOST',					'YieldType',		'YIELD_FOOD'),
+		('CB_TRAIT_TUNDRA_FOOD_BOOST',					'Amount',			'1'),
+		('CB_TRAIT_TUNDRA_PRODUCTION_BOOST',			'YieldType',		'YIELD_PRODUCTION'),
+		('CB_TRAIT_TUNDRA_PRODUCTION_BOOST',			'Amount',			'1'),
+		('CB_TRAIT_TUNDRA_HILLS_FOOD_BOOST',			'YieldType',		'YIELD_FOOD'),
+		('CB_TRAIT_TUNDRA_HILLS_FOOD_BOOST',			'Amount',			'1'),
+		('CB_TRAIT_TUNDRA_HILLS_PRODUCTION_BOOST',		'YieldType',		'YIELD_PRODUCTION'),
+		('CB_TRAIT_TUNDRA_HILLS_PRODUCTION_BOOST',		'Amount',			'1');
 
 
 

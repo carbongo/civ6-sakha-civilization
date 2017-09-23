@@ -478,10 +478,10 @@
 
 
 		<Row Tag="LOC_TRAIT_CIVILIZATION_CB_SAKHA_GRIND_NAME" Language="en_US">
-			<Text>Legendary Legacy</Text>
+			<Text>Northern Traditions</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_CB_SAKHA_GRIND_DESCRIPTION" Language="en_US">
-			<Text>+75% [Icon_Promotion] Experience for all units. When defeating a unit, you recieve [Icon_Gold] Gold equal to it's [Icon_Ability] Combat Strength.</Text>
+			<Text>+1 [Icon_Food] Food from Pastures. Ability to build Farms on Tundra. +1 [Icon_Food] Food and +1 [Icon_Production] Production on Tundra.</Text>
 		</Row>
 
 
@@ -497,14 +497,14 @@
 			<Text>Booturs</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CB_SAKHA_CUSTOM_DESCRIPTION" Language="en_US">
-			<Text>Sakha unique Classical era unit. Ranged unit with 4 [Icon_Movement] Movement with a 1 [Icon_Range] of Attack. Does not require Horses to build.</Text>
+			<Text>Sakha unique Classical era unitthat replaces the Heavy Chariot. Does not require Horses to build. Upgrades to Great Booturs.</Text>
 		</Row>
 
 		<Row Tag="LOC_UNIT_CB_SAKHA_CUSTOM_2_NAME" Language="en_US">
 			<Text>Great Booturs</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CB_SAKHA_CUSTOM_2_DESCRIPTION" Language="en_US">
-			<Text>Sakha unique Medieval era unit that replaces the Knight. Heals at the end of every turn, even after moving or attacking.</Text>
+			<Text>Sakha unique Medieval era unit that replaces the Knight. Heals at the end of every turn, even after moving or attacking. Upgrades to Tank.</Text>
 		</Row>
 
 	</LocalizedText>

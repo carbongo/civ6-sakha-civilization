@@ -14,13 +14,6 @@
 		<Row BuildingType="BUILDING_CB_SAKHA_CUSTOM" YieldType="YIELD_CULTURE" YieldChange="1"/>
 	</Building_YieldChanges>
 
-	<Building_GreatPersonPoints>
-		<Row BuildingType="BUILDING_CB_SAKHA_CUSTOM" GreatPersonClassType="GREAT_PERSON_CLASS_PROPHET" PointsPerTurn="1"/>
-	</Building_GreatPersonPoints>
-
-
-
-
 
 
 
