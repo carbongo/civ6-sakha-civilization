@@ -295,7 +295,7 @@
 
 		<!--DOM-->
 		<Row Tag="LOC_LOADING_INFO_LEADER_CB_SAKHA_LEADER_CUSTOM" Language="en_US">
-			<Text>Great and mighty Elley, your fearlessness in the face of cold and heat, indefatigable desire to defend your honor and honor of your people will lead you through the long path of becoming a great country in far lands.</Text>
+			<Text>Great and mighty Elley, your fearlessness in the face of cold and heat, indefatigable desire to defend your honor and honor of your people will lead you through the long path of becoming a great country in far lands. Your children and descendants will write songs about you.</Text>
 		</Row>
 
 
@@ -333,11 +333,11 @@
 		<!--FIRST MEET-->
 		<!--First AI line-->
 		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
-			<Text>Oh, I didn't know that I would meet lords here! I think... we will get along well.</Text>
+			<Text>Oh, I didn't know that I would meet lords here! My name is Elley, but you can call me friend -- I think... we will get along well.</Text>
 		</Row>
 		<!--AI invitation to visit nearby City-->
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
-			<Text>We would like to invite you to dinner -- kymys, sorat and so on. Your thoughts?</Text>
+			<Text>We would like to invite you to dinner -- kymys, sorat and so on! We will call all neighbors from the valley. Your thoughts?</Text>
 		</Row>
 		<!--AI accepts Human invitation-->
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
@@ -345,7 +345,7 @@
 		</Row>
 		<!--AI invitation to exchange Capital Information-->
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
-			<Text>Let's compare our cities, lord!</Text>
+			<Text>I heard that your capital is famous for its sights. Will you let us see it?</Text>
 		</Row>
 		<!--GREETINGS-->
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
@@ -354,7 +354,7 @@
 		<!--DELEGATION-->
 		<!--AI Accepts-->
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
-			<Text>Thanks for the delegation. We'll make a feast in your honor!</Text>
+			<Text>Thanks for the delegation. We are just celebrating Yhyakh, join us!</Text>
 		</Row>
 		<!--AI Rejects-->
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
@@ -362,7 +362,7 @@
 		</Row>
 		<!--AI Requests -->
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
-			<Text>We have sent you a delegation. Feel free to talk, I want to know your story!</Text>
+			<Text>We have sent you a delegation with meat treats. Feel free to talk, I want to know your story!</Text>
 		</Row>
 		<!--OPEN BORDERS-->
 		<!--AI accepts from human-->
@@ -375,7 +375,7 @@
 		</Row>
 		<!--AI requests from human-->
 		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
-			<Text>I need a passage through your territory. Your thoughts?</Text>
+			<Text>Our people need a way through your territory. Your thoughts?</Text>
 		</Row>
 		<!--DECLARE FRIENDSHIP-->
 		<!--AI accepts from human-->
@@ -401,7 +401,7 @@
 		<!--ALLIANCE-->
 		<!--AI Requests an alliance from human-->
 		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
-			<Text>Hey, lord! I think we can become stronger with an alliance. Your thoughts?</Text>
+			<Text>I think we can become stronger with an alliance. Your thoughts?</Text>
 		</Row>
 		<!--KUDOS & WARNINGS-->
 		<!--AI Kudos-->
@@ -410,11 +410,11 @@
 		</Row>
 		<!--AI Warnings-->
 		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
-			<Text>Do your people really respect you?</Text>
+			<Text>Do your people really respect you ... or are they just pretending?</Text>
 		</Row>
 		<!--AI warns player for border troops-->
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
-			<Text>Why are you showing me your military forces? Are you threatening us?</Text>
+			<Text>Why did you surround our valley? Are you threatening us? Keep in mind, our warriors always on high alert.</Text>
 		</Row>
 		<!--TRADE-->
 		<!--AI Accepts Deal-->
@@ -428,7 +428,7 @@
 		<!--DENOUNCE-->
 		<!--From Human-->
 		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
-			<Text>Ha-ha! You're funny, lord. Watch your back.</Text>
+			<Text>Ha-ha! You're funny, lord. Watch your back and be careful.</Text>
 		</Row>
 		<!--From AI-->
 		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
@@ -437,11 +437,11 @@
 		<!--DECLARE WAR-->
 		<!--Human Declares War-->
 		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
-			<Text>Though I came to these lands for the sake of peace, but I am ready to accept the war. Prepare yourself, vermin!</Text>
+			<Text>Though I came to these lands for the sake of peace, but I am ready to accept the war.</Text>
 		</Row>
 		<!--AI Declares War-->
 		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
-			<Text>I'm so tired of your ignorance. I'll end this now! Prepare yourself, vermin!</Text>
+			<Text>I'm so tired of your ignorance. We'll end this now!</Text>
 		</Row>
 		<!--MAKE PEACE-->
 		<!--AI accepts from human-->
@@ -450,7 +450,7 @@
 		</Row>
 		<!--AI refuses human-->
 		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
-			<Text>No way, vermin, no way.</Text>
+			<Text>No way, no way.</Text>
 		</Row>
 		<!--AI requests from human-->
 		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CB_SAKHA_LEADER_CUSTOM_ANY" Language="en_US">
@@ -481,7 +481,7 @@
 			<Text>Northern Traditions</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_CB_SAKHA_GRIND_DESCRIPTION" Language="en_US">
-			<Text>+1 [Icon_Food] Food from Pastures. Ability to build Farms on Tundra. +1 [Icon_Food] Food and +1 [Icon_Production] Production on Tundra.</Text>
+			<Text>+1 [Icon_Gold] Gold from Fishing Boats and Pastures, +1 [Icon_Food] Food from Camps. +1 [Icon_Food] Food and +1 [Icon_Production] Production from Tundra.</Text>
 		</Row>
 
 
@@ -489,15 +489,14 @@
 			<Text>Yhyakh Place</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CB_SAKHA_CUSTOM_DESCRIPTION" Language="en_US">
-			<Text>+1 [Icon_Production] Production, +1 [Icon_Faith] Faith and +1 [Icon_Culture] Culture for each built place for a summer New Year celebration. It adds another +1 [Icon_GreatProphet] Great Prophet point.</Text>
+			<Text>+1 [Icon_Production] Production, +1 [Icon_Faith] Faith and +1 [Icon_Culture] Culture for each built place for a summer New Year celebration.</Text>
 		</Row>
-
 
 		<Row Tag="LOC_UNIT_CB_SAKHA_CUSTOM_NAME" Language="en_US">
 			<Text>Booturs</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CB_SAKHA_CUSTOM_DESCRIPTION" Language="en_US">
-			<Text>Sakha unique Classical era unitthat replaces the Heavy Chariot. Does not require Horses to build. Upgrades to Great Booturs.</Text>
+			<Text>Sakha unique Ancient era unit that replaces the Classical era Heavy Chariot. Does not require Horses to build. Upgrades to Great Booturs.</Text>
 		</Row>
 
 		<Row Tag="LOC_UNIT_CB_SAKHA_CUSTOM_2_NAME" Language="en_US">
