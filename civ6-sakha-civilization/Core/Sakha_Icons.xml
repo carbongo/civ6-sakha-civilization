@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<!--Leader Icons-->
+		
+		<Row Name="ICON_ATLAS_LEADER_ELLEY" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_ELLEY_32.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_ELLEY" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_ELLEY_45.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_ELLEY" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_ELLEY_50.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_ELLEY" IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_ELLEY_55.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_ELLEY" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_ELLEY_64.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_ELLEY" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_ELLEY_80.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_ELLEY" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_ELLEY_256.dds"/>
+
+		<!--CIV Icons-->
+
+		<Row Name="ICON_ATLAS_CIV_CUSTOM" IconSize="22"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAKHA_CUSTOM_22.dds"/>
+		<Row Name="ICON_ATLAS_CIV_CUSTOM" IconSize="30"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAKHA_CUSTOM_30.dds"/>
+		<Row Name="ICON_ATLAS_CIV_CUSTOM" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAKHA_CUSTOM_32.dds"/>
+		<Row Name="ICON_ATLAS_CIV_CUSTOM" IconSize="44"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAKHA_CUSTOM_44.dds"/>
+		<Row Name="ICON_ATLAS_CIV_CUSTOM" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAKHA_CUSTOM_45.dds"/>
+		<Row Name="ICON_ATLAS_CIV_CUSTOM" IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAKHA_CUSTOM_48.dds"/>
+		<Row Name="ICON_ATLAS_CIV_CUSTOM" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAKHA_CUSTOM_50.dds"/>
+		<Row Name="ICON_ATLAS_CIV_CUSTOM" IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAKHA_CUSTOM_55.dds"/>
+		<Row Name="ICON_ATLAS_CIV_CUSTOM" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAKHA_CUSTOM_64.dds"/>
+		<Row Name="ICON_ATLAS_CIV_CUSTOM" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAKHA_CUSTOM_80.dds"/>
+		<Row Name="ICON_ATLAS_CIV_CUSTOM" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAKHA_CUSTOM_200.dds"/>
+		<Row Name="ICON_ATLAS_CIV_CUSTOM" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAKHA_CUSTOM_256.dds"/>
+
+
+	</IconTextureAtlases>
+
+	<IconDefinitions>
+		<!--Leader Icons-->
+		<Row Name="ICON_LEADER_SAKHA_ELLEY" Atlas="ICON_ATLAS_LEADER_ELLEY" Index="0"/>
+
+		<!--Civilization Icons-->
+		<Row Name="ICON_CIVILIZATION_SAKHA_CIV_CUSTOM" Atlas="ICON_ATLAS_CIV_CUSTOM" Index="0"/>
+
+
+		<!--Building Icons-->
+		<Row Name="ICON_BUILDING_SAKHA_CUSTOM" Atlas="ICON_ATLAS_BUILDINGS" Index="8"/>
+		
+		<!--Units Icons-->
+		<!--BOOTURS (BASED ON SCYTHIAN HORSE ARCHER)-->
+		<Row Name="ICON_UNIT_SAKHA_CUSTOM" Atlas="ICON_ATLAS_UNITS" Index="36"/>
+		<Row Name="ICON_UNIT_SAKHA_CUSTOM" Atlas="ICON_ATLAS_UNITS_FOW" Index="36"/>
+		<Row Name="ICON_UNIT_SAKHA_CUSTOM" Atlas="ICON_ATLAS_UNIT_PORTRAITS" Index="34"/>
+		
+		<!--GREAT BOOTURS (BASED ON MAMLUKS, ICON OF HORSEMAN)-->
+		<Row Name="ICON_UNIT_SAKHA_CUSTOM_2" Atlas="ICON_ATLAS_UNITS" Index="22"/>
+		<Row Name="ICON_UNIT_SAKHA_CUSTOM_2" Atlas="ICON_ATLAS_UNITS_FOW" Index="22"/>
+		<Row Name="ICON_UNIT_SAKHA_CUSTOM_2" Atlas="ICON_ATLAS_UNIT_PORTRAITS" Index="21"/>
+
+	</IconDefinitions>
+</GameData>

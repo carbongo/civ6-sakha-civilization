@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<Types>
+		<Row Type="BUILDING_SAKHA_CUSTOM" Kind="KIND_BUILDING"/>
+	</Types>
+
+	<Buildings>
+		<Row BuildingType="BUILDING_SAKHA_CUSTOM" Name="LOC_BUILDING_SAKHA_CUSTOM_NAME" Description="LOC_BUILDING_SAKHA_CUSTOM_DESCRIPTION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="100" AdvisorType="ADVISOR_CULTURE" Maintenance="2" TraitType="TRAIT_CIVILIZATION_BUILDING_SAKHA_CUSTOM"/>
+	</Buildings>
+
+	<Building_YieldChanges>
+		<Row BuildingType="BUILDING_SAKHA_CUSTOM" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row BuildingType="BUILDING_SAKHA_CUSTOM" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row BuildingType="BUILDING_SAKHA_CUSTOM" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+	</Building_YieldChanges>
+
+	<BuildingModifiers>
+		<Row BuildingType="BUILDING_SAKHA_CUSTOM" ModifierId="MONUMENT_LOYALTY"/>
+	</BuildingModifiers>
+
+</GameInfo>

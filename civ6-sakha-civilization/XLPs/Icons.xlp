@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects::XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>253</build>
+		<revision>293</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="Icons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="ICON_LEADER_ELLEY_256"/>
+			<m_ObjectName text="ICON_LEADER_ELLEY_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_ELLEY_80"/>
+			<m_ObjectName text="ICON_LEADER_ELLEY_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_ELLEY_64"/>
+			<m_ObjectName text="ICON_LEADER_ELLEY_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_ELLEY_55"/>
+			<m_ObjectName text="ICON_LEADER_ELLEY_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_ELLEY_50"/>
+			<m_ObjectName text="ICON_LEADER_ELLEY_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_ELLEY_45"/>
+			<m_ObjectName text="ICON_LEADER_ELLEY_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_ELLEY_32"/>
+			<m_ObjectName text="ICON_LEADER_ELLEY_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAKHA_CUSTOM_256"/>
+			<m_ObjectName text="ICON_SAKHA_CUSTOM_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAKHA_CUSTOM_200"/>
+			<m_ObjectName text="ICON_SAKHA_CUSTOM_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAKHA_CUSTOM_80"/>
+			<m_ObjectName text="ICON_SAKHA_CUSTOM_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAKHA_CUSTOM_64"/>
+			<m_ObjectName text="ICON_SAKHA_CUSTOM_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAKHA_CUSTOM_55"/>
+			<m_ObjectName text="ICON_SAKHA_CUSTOM_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAKHA_CUSTOM_50"/>
+			<m_ObjectName text="ICON_SAKHA_CUSTOM_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAKHA_CUSTOM_48"/>
+			<m_ObjectName text="ICON_SAKHA_CUSTOM_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAKHA_CUSTOM_45"/>
+			<m_ObjectName text="ICON_SAKHA_CUSTOM_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAKHA_CUSTOM_44"/>
+			<m_ObjectName text="ICON_SAKHA_CUSTOM_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAKHA_CUSTOM_32"/>
+			<m_ObjectName text="ICON_SAKHA_CUSTOM_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAKHA_CUSTOM_30"/>
+			<m_ObjectName text="ICON_SAKHA_CUSTOM_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAKHA_CUSTOM_22"/>
+			<m_ObjectName text="ICON_SAKHA_CUSTOM_22"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects::XLP>

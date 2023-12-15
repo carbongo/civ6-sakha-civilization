@@ -1,4 +1,4 @@
-# Sakhian4_Civ
+# civ6-sakha-civilization
 
 Hi folks!
 
