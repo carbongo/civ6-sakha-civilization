@@ -7,7 +7,7 @@
 			<Text>Sakha</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SAKHA_CIV_CUSTOM_DESCRIPTION" Language="en_US">
-			<Text>Sakha Civilization</Text>
+			<Text>Sakha Empire</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SAKHA_CIV_CUSTOM_ADJECTIVE" Language="en_US">
 			<Text>Sakha</Text>
@@ -41,7 +41,7 @@
 
 		<!--Pedia-->
 		<Row Tag="LOC_CIVINFO_SAKHA_CIV_CUSTOM_LOCATION" Language="en_US">
-			<Text>Asia</Text>
+			<Text>North Asia</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_SAKHA_CIV_CUSTOM_POPULATION" Language="en_US">
 			<Text>958,528</Text>
@@ -50,22 +50,22 @@
 			<Text>3.084 million km²</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_SAKHA_CIV_CUSTOM_CAPITAL" Language="en_US">
-			<Text>Yakutsk (from 1632 AD.)</Text>
+			<Text>None (the only place mentioned in the histories is "Tuimaada Valley," captured by Russian Cossacks in 17th Century AD), Yakutsk (from 1632 AD.)</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SAKHA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_1" Language="en_US">
-			<Text>Siberia, in particular Yakutia, is of paleontological significance, as it contains bodies of prehistoric animals from the Pleistocene Epoch, preserved in ice or permafrost. In 2015, the frozen bodies of Dina and Uyan the cave lion cubs were found. The region was also host to the bodies of Yuka and another Woolly mammoth from Oymyakon, a Woolly rhinoceros from the Kolyma River, and bison and horses from Yukagir. The Turkic Sakha people or Yakuts probably settled in the area in the 13th and 14th centuries, migrating north from the Lake Baikal area to the middle Lena. From their new center along the middle Lena they gradually expanded northeast and west beyond the Lena basin towards the Arctic Ocean.</Text>
+			<Text>The Sakha people, also known as the Yakuts, are an ethnic group primarily residing in the Sakha Republic (Yakutia) in northeastern Russia. Their history and culture were profoundly shaped by the harsh and distinctive environment of the Siberian landscape. The Sakha were traditionally semi-nomadic, with a lifestyle adapted to the extreme cold and permafrost of the region. Their economy was primarily based on horse breeding and cattle herding, with horses playing a vital role in transportation and cattle providing essential resources for survival in the severe climate.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SAKHA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_2" Language="en_US">
-			<Text>The name Sakha is of Turkic origin, "saqa-saha" meaning "cue" or "bat". The term yakut is a Turkic word, a corruption of zhaqut - yakut "precious stone", referring to the ruby. The Sakha displaced earlier, much smaller populations who lived on hunting and reindeer herding, introducing the pastoralist economy of Central Asia. The indigenous populations of Paleosiberian and Tungusic stock were mostly assimilated to the Sakha by the 17th century. In August 1638, the Moscow Government formed a new administrative unit with the administrative center of Lensky Ostrog (Fort Lensky), the future city of Yakutsk, which had been founded by Pyotr Beketov in 1632.</Text>
+			<Text>Socially and culturally, the Sakha developed a rich tapestry of traditions and beliefs that were closely intertwined with their natural surroundings. Shamanism played a significant role in their spiritual life, with a deep reverence for the spirits of nature and ancestors. This spiritual belief system was reflected in their rituals, folk tales, and art. Community life was centered around family and clan structures, with a strong emphasis on collective responsibility and mutual support, vital for survival in such a challenging environment.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SAKHA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_3" Language="en_US">
-			<Text>Russian settlers began to form a community in the 18th century, which adopted certain Yakut customs and was often called Yakutyane (Якутя́не) or Lena Early Settlers (ленские старожилы). However, the influx of later settlers assimilated them into the Russian mainstream by the 20th century. In an administrative reform of 1782, Irkutsk Governorate was created. In 1805, Yakutsk Oblast was split from Irkutsk Governorate.</Text>
+			<Text>The 13th century was a period of significant change for the Sakha, as it marked the beginning of their migration from the Baikal region to the basins of the Middle Lena, Aldan, and Vilyuy rivers. This migration was likely driven by a combination of factors including environmental changes, pressures from neighboring peoples, and the search for new pastures for their herds. This period saw the Sakha adapting to new environments, which led to the development of unique skills in fur trapping, fishing, and later, silver and gold mining.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SAKHA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_4" Language="en_US">
-			<Text>On 27 April 1922, former Yakutsk Oblast was proclaimed the Yakut ASSR, although in fact the eastern part of the territory, including the city of Yakutsk, was controlled by the White Russians (see Yakut Revolt). In 1992, after the fall of the Soviet Union, Yakutia was recognized in Moscow as the Sakha (Yakutia) Republic under the jurisdiction of the Russian Federation. Yakutia is historically part of Russian Siberia, but since the formation of the Far Eastern Federal District in 2000, it is administratively part of the Russian Far East.</Text>
+			<Text>Politically, the Sakha remained relatively isolated during the 13th century, but they were not completely untouched by the broader movements of history. The Mongol expansion under Genghis Khan and his successors, for example, had indirect effects on the region. While the Sakha themselves were not conquered by the Mongols, the reshaping of political and trade networks across Asia during this era likely influenced their development. This period laid the groundwork for the distinctive cultural and social identity of the Sakha people, which continues to be a significant part of their heritage today.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SAKHA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_5" Language="en_US">
-			<Text>Industry generates slightly above 50% of the gross national product of Sakha, stemming primarily from mineral exploitation. Industrial enterprises are concentrated in the capital Yakutsk, as well as in Aldan, Mirny, Neryungri, Pokrovsk, and Udachny. The diamond, gold and tin ore mining industries are the major focus of the economy. Uranium ore is beginning to be mined. Turkic-language Sakha are in politics, government, finance, economy and cattle-breeding (horses and cows for milk and meat). The Paleoasian indigenous peoples are hunters, fishermen, and reindeer herders. As of 2008, Sakha Republic is the 19th most developed federal subject in Russia.</Text>
+			<Text>By the 17th century, the Sakha people faced a transformative period in their history with the expansion of the Russian Empire into Siberia. This expansion can be seen as a form of colonialism, where Russian Cossacks, traders, and explorers began to penetrate the vast Siberian territories, including the homeland of the Sakha. The Russians established forts and demanded tribute (yasak) from the indigenous populations, including the Sakha, often in the form of furs which were highly valued in European markets. This imposition of colonial control was frequently accompanied by military force and the establishment of Russian administrative systems, leading to significant changes in the traditional lifestyle, governance, and economic practices of the Sakha people. The incorporation into the Russian Empire brought about a profound shift in the Sakha's political and social structure, marking the beginning of a new era in their history.</Text>
 		</Row>
 
 
@@ -80,10 +80,10 @@
 			<Text>Engsieli</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_4" Language="en_US">
-			<Text>Niuriuktey</Text>
+			<Text>Neoeoriukteeii</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_5" Language="en_US">
-			<Text>Ilin-ener</Text>
+			<Text>Ilin Enger</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_6" Language="en_US">
 			<Text>Suntaar</Text>
@@ -113,7 +113,7 @@
 			<Text>Mukhtuia</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_15" Language="en_US">
-			<Text>Djarmonga</Text>
+			<Text>Orto Khalyma</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_16" Language="en_US">
 			<Text>Kebeeii</Text>
@@ -307,19 +307,19 @@
 			<Text>Innovator, Cultural Hero</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAKHA_ELLEY_QUOTE" Language="en_US">
-			<Text> </Text>
+			<Text>May happiness and joy always be in your home, may there be peace and tranquility in your soul.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAKHA_ELLEY_CHAPTER_HISTORY_PARA_1" Language="en_US">
-			<Text>According to legends, the progenitor of all Sakha was Elley Bootur (Boğotur), who was of Turkic origin and who fled to the middle course of the Lena, running from a great war or persecution. Elley Bootur married the daughter of Omogoy Bay, who had been of Mongol (Buryat) descent and who had also fled to the north when the wars during the Genghis Khan rule (?) broke out, and who settled down in the delta of the Chara River (a tributary of the Eoliueokhiume (Russian: Olyokma)) near the Lena about 300 miles from present-day Yakutsk.</Text>
+			<Text>Elley Bootur is a central figure in the folklore and cultural heritage of the Sakha people, a Turkic-speaking ethnic group from Northeastern Siberia, predominantly found in the Republic of Sakha (Yakutia) within the Russian Federation. His story and significance intertwine with the Sakha's history, culture, and identity, making him an emblematic hero in their lore.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAKHA_ELLEY_CHAPTER_HISTORY_PARA_2" Language="en_US">
-			<Text>The ritual funerary complexes correspond to the Ust-Talkin culture, which alongside with cranial features of the man enable us to associate Sergelyakh burial with Turkic part of the Sakha people, which is epically correlated with the legendary Elley Bootur.</Text>
+			<Text>According to legend, he originated from "Tatar" background and fled to the middle course of the Lena River, escaping a great war or persecution. This narrative situates him as a foundational figure in the establishment of the Sakha people in their current homeland.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAKHA_ELLEY_CHAPTER_HISTORY_PARA_3" Language="en_US">
-			<Text> </Text>
+			<Text>Elley Bootur is credited with founding the pastoral economy of the Yakut people, which signifies his importance not just in terms of ancestry but also in the development of the Sakha way of life, particularly their economic practices.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAKHA_ELLEY_CHAPTER_HISTORY_PARA_4" Language="en_US">
-			<Text> </Text>
+			<Text>Recent studies, incorporating population genetics, ancient DNA, and archaeological findings, have attempted to unravel the genetic basis of legendary characters like Elley Bootur. These studies suggest a homogenous paternal lineage among the Sakha people, with a few individuals from Central Asia potentially being the progenitors of the contemporary Sakha population. This scientific exploration adds a fascinating dimension to the understanding of Elley Bootur's historical and genetic significance.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAKHA_ELLEY_CHAPTER_HISTORY_PARA_5" Language="en_US">
 			<Text> </Text>
@@ -480,7 +480,7 @@
 			<Text>Northern Resilience</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_SAKHA_GRIND_DESCRIPTION" Language="en_US">
-			<Text>+1 [Icon_Food] Food and +1 [Icon_Production] Production from Tundra and Tundra Hills tiles. +1 [Icon_Food] Food from Snow and Snow Hills tiles.</Text>
+			<Text>+2 [Icon_Food] Food and +2 [Icon_Production] Production from Tundra, Tundra Hills, Snow, and Snow Hills tiles.</Text>
 		</Row>
 
 
@@ -493,8 +493,14 @@
 		<Row Tag="LOC_BUILDING_SAKHA_CUSTOM_XP1_DESCRIPTION" Language="en_US">
 			<Text>A building unique to Sakha that provides +1 [Icon_Faith] Faith, +1 [Icon_Culture] Culture, +1 [Icon_Science] Science, and +1 Loyalty. Built in City Center.</Text>
 		</Row>
-		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SAKHA_CUSTOM_NAME_CHAPTER_HISTORY_PARA_1" Language="en_US">
-			<Text>This place, often associated with the Yhyakh festival, an important summer event, bustles with life and color. Here, under the endless expanse of the Siberian sky, locals gather to celebrate the sun with traditional dances, songs, and games. The air is filled with the aroma of freshly prepared local delicacies, and the sounds of ancient rituals blend with modern festivity. Yhyakh Place is not just a location; it's a living mosaic of the Sakha people's enduring traditions and their harmonious relationship with nature.</Text>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SAKHA_CUSTOM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>This place, often associated with the Yhyakh festival, an important summer event, bustles with life and color. Here, under the endless expanse of the Siberian sky, locals gather to celebrate the sun with traditional dances, songs, and games. The Yhyakh festival, a central ethnic tradition and an official holiday in the Sakha Republic since 1991, is deeply rooted in the cultural memory of Elley Bootur. It's celebrated across the Republic of Sakha, with the largest festival, Yhyakh Tuymaada, held in Yakutsk. This festival is a grand affair, often drawing up to 200,000 attendees, and is a symbol of the Sakha people's rich cultural heritage.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SAKHA_CUSTOM_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>During the Yhyakh festival, various traditional elements are observed, such as the ritual purification of festival guests, offerings to sky deities, and the ohuokhai circle dance, which is a significant cultural practice among the Sakha. These elements reflect the rich oral traditions and the deep spiritual beliefs of the Sakha people, with Elley Bootur's legend often interwoven into these practices.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SAKHA_CUSTOM_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>With the fall of the USSR, there was a renewed interest in Sakha national history and cultural heritage, leading to the revival of many traditional elements, including the Yhyakh festival. This resurgence signifies the importance of Elley Bootur's legacy in maintaining cultural identity and heritage among the Sakha people.</Text>
 		</Row>
 		
 		<Row Tag="LOC_UNIT_SAKHA_CUSTOM_NAME" Language="en_US">
@@ -503,12 +509,24 @@
 		<Row Tag="LOC_UNIT_SAKHA_CUSTOM_DESCRIPTION" Language="en_US">
 			<Text>A unique Ancient era unit that replaces Heavy Chariot. Does not require Horses to build. Upgrades to Great Booturs.</Text>
 		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SAKHA_CUSTOM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The term "Bootur" in Sakha culture designates a warrior-hero, comparable to the Turkic and Mongolic honorific title "Baghatur." Young individuals aspiring to become Booturs underwent rigorous training from their early years, learning essential warrior skills. This specialized training encompassed various martial arts, including swordsmanship, archery, wrestling, hand-to-hand combat, and horse riding. These skills, which are now part of ancestral sports in Sakha, were critical for a Bootur's development, especially during the 15th and 16th centuries. This era, known as the "Kyrgys Uiete" or "Century of Destruction," was marked by intense inter-clan conflicts, elevating the role of Booturs in warfare. The Booturs' influence extended beyond the battlefield; they played crucial roles in social and cultural events like the Yhyakh festival, where their prowess and skills were showcased and revered.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SAKHA_CUSTOM_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The Booturs' cultural significance within Sakha society is profound, embodying martial skills, social status, and cultural importance. Their legacy, particularly of figures like Dygyn Darkhan, continues to inspire and shape the identity and cultural practices of the Sakha people.</Text>
+		</Row>
 
 		<Row Tag="LOC_UNIT_SAKHA_CUSTOM_2_NAME" Language="en_US">
 			<Text>Great Booturs</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_SAKHA_CUSTOM_2_DESCRIPTION" Language="en_US">
 			<Text>A unique Medieval era unit that replaces the Knight. Heals at the end of every turn, even after moving or attacking. Upgrades to Tank.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SAKHA_CUSTOM_2_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Among the Sakha's legendary Booturs, Dygyn Darkhan is a figure of great prominence. As the chief of the Khangalas tribe, Dygyn Darkhan is remembered for his exceptional martial abilities and leadership qualities. Believed to have lived from the late 1500s to 1631, Dygyn Darkhan is credited with the initiation of the inter-clan multisport competition, reminiscent of today's Dygyn Games. His life, enveloped in legend, portrays him as a descendant of Ellei Bootur, the Sakha's progenitor. He is often depicted as a wealthy nobleman, commanding vast herds and a large number of troops. Dygyn Darkhan's influence in Sakha society was significant, and he is regarded by some historians as a unifier of the Sakha tribes, aspiring to establish a nation-state. However, other scholars argue that his policies led to more fragmentation among the tribes. Despite these differing views, Dygyn Darkhan is a revered figure in Sakha culture, often seen as a symbol of valor, bravery, and a spirit of inquisitiveness and righteousness.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SAKHA_CUSTOM_2_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The Booturs' cultural significance within Sakha society is profound, embodying martial skills, social status, and cultural importance. Their legacy, particularly of figures like Dygyn Darkhan, continues to inspire and shape the identity and cultural practices of the Sakha people.</Text>
 		</Row>
 
 		 <!-- Named Rivers -->
@@ -530,18 +548,15 @@
 
         <!-- Named Mountains -->
         <Row Tag="LOC_NAMED_MOUNTAIN_KHARAULAKH" Language="en_US">
-            <Text>Kharaulakh Mountains</Text>
+            <Text>Khara-Uulaakh Mountains</Text>
         </Row>
         <Row Tag="LOC_NAMED_MOUNTAIN_ORULGAN" Language="en_US">
             <Text>Orulgan Mountains</Text>
         </Row>
-        <Row Tag="LOC_NAMED_MOUNTAIN_KHINGAN" Language="en_US">
-            <Text>Khingan Mountains</Text>
-        </Row>
 
         <!-- Named Volcanoes -->
         <Row Tag="LOC_NAMED_VOLCANO_BALAGANTAS" Language="en_US">
-            <Text>Balagan-Taas Volcano</Text>
+            <Text>Balaghan-Taas Volcano</Text>
         </Row>
 
         <!-- Named Lakes -->

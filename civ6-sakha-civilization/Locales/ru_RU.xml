@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited witс XMLSPY v2004 rel. 2 U (сttp://www.xmlspy.com) by Ed Beacс (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--ЦИВИЛИЗАЦИЯ-->
+		<Row Tag="LOC_CIVILIZATION_SAKHA_CIV_CUSTOM_NAME" Language="ru_RU">
+			<Text>Саха</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAKHA_CIV_CUSTOM_DESCRIPTION" Language="ru_RU">
+			<Text>Империя саха|Империи саха|Империи саха|Империю саха|Империей саха|Империи саха</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAKHA_CIV_CUSTOM_ADJECTIVE" Language="ru_RU">
+			<Text>саха</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAKHA_CIV_CUSTOM_DESCRIPTION_SAKHA_CIVILIZATION" Language="ru_RU">
+			<Text>Саха</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<!--РЕЛИГИЯ-->
+		<!-- Название религии. -->
+		<Row Tag="LOC_CIVINFO_SAKHA_CIV_CUSTOM_RELIGION_NAME" Language="ru_RU">
+			<Text>Айыы</Text>
+		</Row>
+
+		<!-- Информация из Цивилопедии о религии. -->
+		<Row Tag="LOC_CIVINFO_SAKHA_CIV_CUSTOM_RELIGION_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>
+				Айыы - благодушные духи в мифологии Якутов. Они являются творцами мира и сказочной страны Якутских Олонхо. В якутской вере величайшим из них является творец мира "Урунг Ай Тойон".
+			</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SAKHA_CIV_CUSTOM_RELIGION_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>
+				Согласно мифологии, Айыы обитают в Верхнем Мире. Считается, что Айыы не принимают кровавых жертв и поэтому им предлагают "жертвы" из растительных и молочных продуктов.
+			</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SAKHA_CIV_CUSTOM_RELIGION_CHAPTER_HISTORY_PARA_3" Language="ru_RU">
+			<Text>
+				Символы Айыы необходимы для Ысяха (весеннего праздника) и регулируются правительством Республики Саха (Якутия).
+			</Text>
+		</Row>
+
+		<!--Цивилопедия-->
+		<Row Tag="LOC_CIVINFO_SAKHA_CIV_CUSTOM_LOCATION" Language="ru_RU">
+			<Text>Северная Азия</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SAKHA_CIV_CUSTOM_POPULATION" Language="ru_RU">
+			<Text>958 528</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SAKHA_CIV_CUSTOM_SIZE" Language="ru_RU">
+			<Text>3,084 миллиона кв. км</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SAKHA_CIV_CUSTOM_CAPITAL" Language="ru_RU">
+			<Text>Нет (единственное упомянутое место в истории - это "Долина Туймаады", захваченная русскими казаками в 17-м веке н. э.), Якутск (с 1632 г. н. э.)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SAKHA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Саха, также известные как якуты, - этническая группа, проживающая в основном в Республике Саха (Якутия) на северо-востоке России. Их история и культура глубоко отразились суровой и характерной средой сибирского ландшафта. саха традиционно были полуномадами, а их образ жизни был адаптирован к крайней холодности и вечной мерзлоте региона. Их экономика в основном базировалась на разведении лошадей и скотоводстве, причем лошади играли важную роль в транспорте, а скот предоставлял необходимые ресурсы для выживания в суровом климате.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SAKHA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>Социально и культурно саха развили богатую мозаику традиций и верований, тесно переплетенных с окружающей природой. Шаманизм играл значительную роль в их духовной жизни, с глубоким почитанием духов природы и предков. Эта духовная вера нашла свое отражение в их ритуалах, народных сказках и искусстве. Сообщество было сосредоточено вокруг семейных и клановых структур, с ярко выраженным акцентом на коллективной ответственности и взаимоподдержке, неотъемлемых для выживания в такой сложной среде.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SAKHA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_3" Language="ru_RU">
+			<Text>13-й век был периодом значительных изменений для саха, поскольку он ознаменовал начало их миграции из региона Байкала в бассейны средней Лены, Алдана и Вилюя. Эта миграция, вероятно, была вызвана сочетанием факторов, включая изменения в окружающей среде, давление со стороны соседних народов и поиск новых пастбищ для своего скота. В этот период саха адаптировались к новым условиям, что привело к развитию уникальных навыков в добыче мехов, рыболовстве и, позже, добыче серебра и золота.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SAKHA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_4" Language="ru_RU">
+			<Text>С политической точки зрения саха оставались относительно изолированными в 13-м веке, но они не были полностью не затронуты более общими историческими движениями. Например, монгольское расширение под Генгисханом и его преемниками имело косвенное воздействие на регион. Несмотря на то что сами саха не были завоеваны монголами, перестройка политических и торговых сетей в Азии в это время, вероятно, повлияла на их развитие. Этот период заложил основу для характерной культурной и социальной идентичности саха, которая остается значимой частью их наследия в наши дни.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SAKHA_CIV_CUSTOM_CHAPTER_HISTORY_PARA_5" Language="ru_RU">
+			<Text>К 17-му веку саха столкнулись с трансформационным периодом в своей истории с расширением Российской империи в Сибирь. Это расширение можно рассматривать как форму колониализма, где русские казаки, торговцы и исследователи начали проникать в обширные сибирские территории, включая родину саха. Русские устанавливали форпосты и требовали дань (ясак) от местных населений, включая саха, часто в виде мехов, которые были высоко ценными на европейских рынках. Это наложение колониального контроля часто сопровождалось военной силой и установлением русских административных систем, что привело к значительным изменениям в традиционном образе жизни, управлении и экономических практиках саха, Вхождение в Российскую империю принесло глубокий перелом в политической и социальной структуре саха, знаменуя начало новой эры в их истории.</Text>
+		</Row>
+
+
+		<!--Города-->
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_1" Language="ru_RU">
+			<Text>Туймаада</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_2" Language="ru_RU">
+			<Text>Эркээни</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_3" Language="ru_RU">
+			<Text>Энгсиэли</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_4" Language="ru_RU">
+			<Text>Неерyктээйи</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_5" Language="ru_RU">
+			<Text>Илин Энгэр</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_6" Language="ru_RU">
+			<Text>Сунтаар</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_7" Language="ru_RU">
+			<Text>Ньурба</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_8" Language="ru_RU">
+			<Text>Суоркун</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_9" Language="ru_RU">
+			<Text>Куурбат</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_10" Language="ru_RU">
+			<Text>Муома</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_11" Language="ru_RU">
+			<Text>Октем</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_12" Language="ru_RU">
+			<Text>Таатта</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_13" Language="ru_RU">
+			<Text>Бyлyy</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_14" Language="ru_RU">
+			<Text>Мухтуя</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_15" Language="ru_RU">
+			<Text>Орто Халыма</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_16" Language="ru_RU">
+			<Text>Кэбээйи</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_17" Language="ru_RU">
+			<Text>Алдан</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_18" Language="ru_RU">
+			<Text>Нам</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_19" Language="ru_RU">
+			<Text>Чурапчы</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_20" Language="ru_RU">
+			<Text>Хайалаах</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_21" Language="ru_RU">
+			<Text>Булунг</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_22" Language="ru_RU">
+			<Text>Сутуруоха</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_23" Language="ru_RU">
+			<Text>Ытык-Кель</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_24" Language="ru_RU">
+			<Text>Тиксии</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_25" Language="ru_RU">
+			<Text>Бата5ай</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_26" Language="ru_RU">
+			<Text>Элдикан</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_27" Language="ru_RU">
+			<Text>Битим</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_28" Language="ru_RU">
+			<Text>Хатай</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_29" Language="ru_RU">
+			<Text>Аартык</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAKHA_CIV_CUSTOM_30" Language="ru_RU">
+			<Text>Олyехyмэ</Text>
+		</Row>
+
+		<!--Граждане-->
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MALE_1" Language="ru_RU">
+			<Text>Карахан</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MALE_2" Language="ru_RU">
+			<Text>Этэрбэс</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MALE_3" Language="ru_RU">
+			<Text>Тускун</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MALE_4" Language="ru_RU">
+			<Text>Айыысиэнэ</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MALE_5" Language="ru_RU">
+			<Text>Тулуй</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MALE_6" Language="ru_RU">
+			<Text>Кирсах</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MALE_7" Language="ru_RU">
+			<Text>Байдам</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MALE_8" Language="ru_RU">
+			<Text>Уордаах</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MALE_9" Language="ru_RU">
+			<Text>Сюргэн</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MALE_10" Language="ru_RU">
+			<Text>Дьалай</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_MALE_1" Language="ru_RU">
+			<Text>Айсен</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_MALE_2" Language="ru_RU">
+			<Text>Ньургун</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_MALE_3" Language="ru_RU">
+			<Text>Айтал</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_MALE_4" Language="ru_RU">
+			<Text>Айаал</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_MALE_5" Language="ru_RU">
+			<Text>Мичил</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_MALE_6" Language="ru_RU">
+			<Text>Кэскил</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_MALE_7" Language="ru_RU">
+			<Text>Айхал</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_MALE_8" Language="ru_RU">
+			<Text>Уйгулаан</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_MALE_9" Language="ru_RU">
+			<Text>Уолаан</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_MALE_10" Language="ru_RU">
+			<Text>Сайаан</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_FEMALE_1" Language="ru_RU">
+			<Text>Намыйя</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_FEMALE_2" Language="ru_RU">
+			<Text>Карахаана</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_FEMALE_3" Language="ru_RU">
+			<Text>Дойдуса</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_FEMALE_4" Language="ru_RU">
+			<Text>Кырдаана</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_FEMALE_5" Language="ru_RU">
+			<Text>Дагдайаана</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_FEMALE_6" Language="ru_RU">
+			<Text>Сымыхакай</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_FEMALE_7" Language="ru_RU">
+			<Text>Хасаана</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_FEMALE_8" Language="ru_RU">
+			<Text>Кингха</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_FEMALE_9" Language="ru_RU">
+			<Text>Ордаа</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_FEMALE_10" Language="ru_RU">
+			<Text>Кысылкемyс</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_FEMALE_1" Language="ru_RU">
+			<Text>Кyннэй</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_FEMALE_2" Language="ru_RU">
+			<Text>Туйаара</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_FEMALE_3" Language="ru_RU">
+			<Text>Сайыына</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_FEMALE_4" Language="ru_RU">
+			<Text>Айта</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_FEMALE_5" Language="ru_RU">
+			<Text>Уруйдаана</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_FEMALE_6" Language="ru_RU">
+			<Text>Сайаана</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_FEMALE_7" Language="ru_RU">
+			<Text>Сахайаана</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_FEMALE_8" Language="ru_RU">
+			<Text>Кэрэчээнэ</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_FEMALE_9" Language="ru_RU">
+			<Text>Нарыйаана</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAKHA_CIV_CUSTOM_MODERN_FEMALE_10" Language="ru_RU">
+			<Text>Ньургуйаана</Text>
+		</Row>
+
+
+
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_SAKHA_ELLEY_NAME" Language="ru_RU">
+			<Text>Эллэй Боотур</Text>
+		</Row>
+
+
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SAKHA_ELLEY" Language="ru_RU">
+			<Text>Мудрый и стойкий Эллэй Боотур, под вашим мудрым руководством наш народ процветает в гармонии с величественными пейзажами своей родины. Ваше руководство превращает вызовы тундры в возможности, питая культуру, богатую традициями и устойчивостью. Пока вы ведете наш народ, ваша мудрость и сила вдохновляют процветание и единство, создавая наследие, которое звучит сквозь века.</Text>
+		</Row>
+
+
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAKHA_ELLEY_TITLE" Language="ru_RU">
+			<Text>Эллэй Боотур</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAKHA_ELLEY_SUBTITLE" Language="ru_RU">
+			<Text>Инноватор, Культурный Герой</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAKHA_ELLEY_QUOTE" Language="ru_RU">
+			<Text>Пусть счастье и радость всегда будут в вашем доме, пусть в вашей душе царит мир и спокойствие.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAKHA_ELLEY_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Эллэй Боотур - центральная фигура в фольклоре и культурном наследии саха, тюркской этнической группы из Северо-Восточной Сибири, преимущественно обитающей в Республике Саха (Якутия) в Российской Федерации. Его история и значение переплетаются с историей, культурой и идентичностью саха, делая его символическим героем в их преданиях.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAKHA_ELLEY_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>По легенде, он татарского происхождения и бежал на средний путь реки Лены, уходя от большой войны или преследования. Эта история утверждает его как ключевую фигуру в установлении саха на своей нынешней родине.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAKHA_ELLEY_CHAPTER_HISTORY_PARA_3" Language="ru_RU">
+			<Text>Эллэй Боотур приписывают основание пасторальной экономики якутов, что подчеркивает его важность не только в смысле происхождения, но и в развитии образа жизни саха, особенно их экономических практик.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAKHA_ELLEY_CHAPTER_HISTORY_PARA_4" Language="ru_RU">
+			<Text>Недавние исследования, включая популяционную генетику, древние ДНК и археологические находки, пытались раскрывать генетическую основу легендарных персонажей, таких как Эллэй Боотур. Эти исследования предполагают однородное отцовское происхождение среди саха, с некоторыми лицами из Центральной Азии, возможно, являющимися предками современного саха. Это научное исследование добавляет захватывающую размерность в понимание исторического и генетического значения Эллэй Боотура.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAKHA_ELLEY_CHAPTER_HISTORY_PARA_5" Language="ru_RU">
+			<Text> </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAKHA_ELLEY_CHAPTER_HISTORY_PARA_6" Language="ru_RU">
+			<Text> </Text>
+		</Row>
+
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Приветствую, благородный путешественник. Я - Эллей, правитель саха. Пусть наше встреча станет началом процветающей дружбы.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Присоединяйтесь к нам на пир в наших землях. Мы поделимся теплом нашего очага и историями наших предков.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>С честью мы принимаем ваше приглашение и с нетерпением ждем узнать о способах вашего народа.</Text>
+		</Row>
+		<!--AI invitation to excсange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Мы слышали легенды о вашей великой столице. Может ли нам быть уготовано увидеть ее красоту?</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Добро пожаловать, друг. Какие новости вы принесли?</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Ваша делегация очень добро пожалована. Они увидят единство и радость нашего народа.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Мы должны смиренно отказаться, так как сейчас время торжественной раздумья для нас.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Наши послы несут дары из мехов и песен. Пусть они станут мостом дружбы между нами.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from сuman-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Ваше предложение открывает путь к более глубокому пониманию и доверию.</Text>
+		</Row>
+		<!--AI rejects from сuman-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Сейчас не время, но давайте пересмотрим это предложение в будущем.</Text>
+		</Row>
+		<!--AI requests from сuman-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Пусть наши люди свободно путешествуют по нашим землям, чтобы учиться и расти вместе?</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from сuman-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>В единстве сила. Пусть наша дружба будет маяком в этих землях.</Text>
+		</Row>
+		<!--AI Rejects from сuman -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Похоже, что наши пути еще не скрестились, благородный.</Text>
+		</Row>
+		<!--AI Requests friendsсip from сuman-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Друг, давайте объединим наши народы под знаменем мира и понимания.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Ваше согласие очень нас чествует.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Мы уважаем ваше решение и надеемся на будущее согласие.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from сuman-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Вместе, как союзники, мы можем создать наследие процветания и мира.</Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Ваше лидерство свидетельствует о добродетелях мудрости и терпимости.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Надо лидировать с силой и состраданием. Чувствуют ли ваши люди ваше сердце в вашем правлении?</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Ваши воины близко к нашим землям. Мы верим, что это не предвестник конфликта.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Это соглашение открывает путь к взаимному процветанию. Пойдемте вперед вместе.</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Похоже, что это не в интересах нашего народа на данный момент.</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Ваши слова услышаны, но давайте надеяться на понимание в будущем.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Меня огорчает видеть, как наши пути расходятся таким образом. Пусть мудрость вернет вас.</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Хотя мир - наше желание, мы будем стойко стоять перед лицом конфликта.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>С тяжелым сердцем мы берем оружие, чтобы защитить наш народ и наши земли.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from сuman-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Давайте положим конец этому конфликту и возобновим наше стремление к миру.</Text>
+		</Row>
+		<!--AI refuses сuman-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Время мира еще не наступило, но может быть оно на горизонте.</Text>
+		</Row>
+		<!--AI requests from сuman-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Наш народ жаждет мира. Давайте завершим этот конфликт и двинемся вперед вместе.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>Хотя мы были побеждены, дух нашего народа остается непоколебимым. Мы восстанем сильнее и мудрее.</Text>
+		</Row>
+		<!--Human is Defeated (will see tсis in сotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SAKHA_ELLEY_ANY" Language="ru_RU">
+			<Text>[LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SAKHA_ELLEY_ANY]</Text>
+		</Row>
+
+
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_ELLEY_NAME" Language="ru_RU">
+			<Text>Землепроходец</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ELLEY_DESCRIPTION" Language="ru_RU">
+			<Text>Постоянная скидка 50% на покупку клеток города.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SAKHA_GRIND_NAME" Language="ru_RU">
+			<Text>Северная Устойчивость</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SAKHA_GRIND_DESCRIPTION" Language="ru_RU">
+			<Text>+2 [Icon_Food] Еды и +2 [Icon_Production] Производства с участков Тундры, Тундры с холмами, Снега и Снега с холмами.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_BUILDING_SAKHA_CUSTOM_NAME" Language="ru_RU">
+			<Text>Место Ысыах</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SAKHA_CUSTOM_DESCRIPTION" Language="ru_RU">
+			<Text>Здание уникальное для саха, предоставляющее +1 [Icon_Faitс] Веры, +1 [Icon_Culture] Культуры и +1 [Icon_Science] Науки. Может быть построено в центре города.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SAKHA_CUSTOM_XP1_DESCRIPTION" Language="ru_RU">
+			<Text>Здание уникальное для саха, предоставляющее +1 [Icon_Faitс] Веры, +1 [Icon_Culture] Культуры, +1 [Icon_Science] Науки и +1 Лояльности. Может быть построено в центре города.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SAKHA_CUSTOM_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Это место, часто ассоциируемое с праздником Ысыах, важным летним событием, наполнено жизнью и красками. Здесь, под бескрайним небом Сибири, местные жители собираются, чтобы праздновать солнце с традиционными танцами, песнями и играми. Праздник Ысыах, центральная этническая традиция и официальный праздник в Республике Саха с 1991 года, глубоко укоренился в культурной памяти Эллея Боотура. Его празднуют по всей Республике Саха, а самый крупный праздник, Ысыах Туймаада, проводится в Якутске. Этот фестиваль - большое событие, часто собирающее до 200 000 участников, и символ богатого культурного наследия саха.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SAKHA_CUSTOM_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>Во время праздника Ысыах наблюдаются различные традиционные элементы, такие как ритуальная очищение гостей праздника, жертвоприношения богам неба и круговой танец охуокхай, который является значительной культурной практикой среди саха. Эти элементы отражают богатые устные традиции и глубокие духовные убеждения саха, с легендой Эллея Боотура часто вплетенной в эти практики.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SAKHA_CUSTOM_CHAPTER_HISTORY_PARA_3" Language="ru_RU">
+			<Text>С падением СССР возрос интерес к саха национальной истории и культурному наследию, что привело к возрождению многих традиционных элементов, включая праздник Ысыах. Это воскрешение символизирует важность наследия Эллея Боотура в поддержании культурной идентичности и наследия саха.</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_SAKHA_CUSTOM_NAME" Language="ru_RU">
+			<Text>Боотуры</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SAKHA_CUSTOM_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальная единица эпохи Древности, заменяющая Тяжелую Колесницу. Не требует лошадей для постройки. Может быть усовершенствована в Великих Боотуров.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SAKHA_CUSTOM_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Термин "Боотур" в культуре саха обозначает воин-героя, сравнимого с тюркским и монгольским почетным званием "Багатур". Молодые люди, стремящиеся стать Боотурами, проходили строгую подготовку с самого детства, изучая основы боевых навыков. Эта специализированная подготовка включала в себя различные виды боевых искусств, включая мастерство мечом, стрельбу из лука, борьбу, рукопашный бой и верховую езду. Эти навыки, которые сейчас являются частью наследственных видов спорта среди саха, были критически важными для развития Боотура, особенно в XV и XVI веках. Эта эпоха, известная как "Кыргыс Уиэтэ" или "Век Разрушений", была отмечена интенсивными межклановыми конфликтами, что повысило роль Боотуров в военном деле. Влияние Боотуров распространялось за пределы боевого поля; они играли важные роли на социальных и культурных мероприятиях, таких как фестиваль Ысыах, где их мастерство и навыки демонстрировались и чтимы.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SAKHA_CUSTOM_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>Культурное значение Боотуров в обществе саха глубоко, олицетворяя боевые навыки, социальный статус и культурную важность. Их наследие, особенно фигуры, подобные Дыгыну Дархану, продолжает вдохновлять и формировать идентичность и культурные практики саха.</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_SAKHA_CUSTOM_2_NAME" Language="ru_RU">
+			<Text>Великие Боотуры</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SAKHA_CUSTOM_2_DESCRIPTION" Language="ru_RU">
+			<Text>Уникальная единица эпохи Средневековья, заменяющая Рыцаря. Восстанавливает здоровье в конце каждого хода, даже после перемещения или атаки. Может быть усовершенствована в Танк.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SAKHA_CUSTOM_2_CHAPTER_HISTORY_PARA_1" Language="ru_RU">
+			<Text>Среди легендарных Боотуров саха особо выделяется Дыгын Дархан. В качестве вождя племени Хангалас, Дыгын Дархан помнится своими исключительными военными способностями и качествами лидера. Предполагается, что он жил с конца XVI века по 1631 год, и ему приписывается инициирование многостороннего многооборонного соревнования, напоминающего современные Игры Дыгына. Его жизнь, окутанная легендами, изображает его как потомка Эллея Боотура, прародителя саха. Его часто изображают как богатого дворянина, владеющего обширными стадами и большим числом войск. Влияние Дыгын Дархана на саха общество было значительным, и некоторые историки считают его объединителем племен саха, стремясь создать национальное государство. Тем не менее, другие ученые считают, что его политика привела к большей фрагментации племен. Несмотря на эти различные точки зрения, Дыгын Дархан - почитаемая фигура в саха культуре, часто видимая как символ мужества, смелости и духа пытливости и праведности.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SAKHA_CUSTOM_2_CHAPTER_HISTORY_PARA_2" Language="ru_RU">
+			<Text>Культурное значение Боотуров в обществе саха глубоко, олицетворяя боевые навыки, социальный статус и культурную важность. Их наследие, особенно фигуры, подобные Дыгыну Дархану, продолжает вдохновлять и формировать идентичность и культурные практики саха.</Text>
+		</Row>
+
+		<!-- Именованные Реки -->
+		<Row Tag="LOC_NAMED_RIVER_ULAKHAN" Language="ru_RU">
+			<Text>Река Улахан</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_AMMA" Language="ru_RU">
+			<Text>Река Амма</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BUUR" Language="ru_RU">
+			<Text>Река Буур</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_UCHUR" Language="ru_RU">
+			<Text>Река Учур</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BIULIUU" Language="ru_RU">
+			<Text>Река Бyлyy</Text>
+		</Row>
+
+		<!-- Именованные Горы -->
+		<Row Tag="LOC_NAMED_MOUNTAIN_KHARAULAKH" Language="ru_RU">
+			<Text>Горы Хара-Уулаах</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ORULGAN" Language="ru_RU">
+			<Text>Горы Орул5ан</Text>
+		</Row>
+
+		<!-- Именованные Вулканы -->
+		<Row Tag="LOC_NAMED_VOLCANO_BALAGANTAS" Language="ru_RU">
+			<Text>Вулкан Бала5ан-Таас</Text>
+		</Row>
+
+		<!-- Именованные Озера -->
+		<Row Tag="LOC_NAMED_LAKE_SAISARY" Language="ru_RU">
+			<Text>Озеро Сайсары</Text>
+		</Row>
+
+		<!-- Именованные Моря -->
+		<Row Tag="LOC_NAMED_SEA_KHARA" Language="ru_RU">
+			<Text>Море Хара</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_INDIGIIR" Language="ru_RU">
+			<Text>Море Индигиир</Text>
+		</Row>
+
+	</LocalizedText>
+</GameData>

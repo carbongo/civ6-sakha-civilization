@@ -7,7 +7,7 @@
 		<revision>293</revision>
 	</m_Version>
 	<m_ClassName text="UITexture"/>
-	<m_PackageName text="Icons"/>
+	<m_PackageName text="UI/Icons"/>
 	<m_Entries>
 		<Element>
 			<m_EntryID text="ICON_LEADER_ELLEY_256"/>

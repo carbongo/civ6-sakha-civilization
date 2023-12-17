@@ -552,7 +552,7 @@
 					<Element text="LeaderBackgrounds"/>
 					<Element text="LeaderFallbacks"/>
 					<Element text="LEADER_SAKHA_ELLEY"/>
-					<Element text="Icons"/>
+					<Element text="UI/Icons"/>
 				</relativePackagePaths>
 			</Element>
 			<Element>

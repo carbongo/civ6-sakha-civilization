@@ -24,6 +24,7 @@
 
 	<TypeTags>
 		<Row Type="UNIT_SAKHA_CUSTOM" Tag="CLASS_RANGED_CAVALRY"/>
+		<Row Type="UNIT_SAKHA_CUSTOM" Tag="CLASS_MOBILE_RANGED"/>
 		<Row Type="UNIT_SAKHA_CUSTOM_2" Tag="CLASS_HEAVY_CAVALRY"/>
 		<Row Type="UNIT_SAKHA_CUSTOM_2" Tag="CLASS_MAMLUK"/>
 	</TypeTags>
@@ -31,41 +32,41 @@
 	<Units>
 		<Row
 			UnitType="UNIT_SAKHA_CUSTOM"
-			BaseMoves="3"
 			Cost="100"
-			AdvisorType="ADVISOR_CONQUEST"
+			Maintenance="2"
+			BaseMoves="3"
 			BaseSightRange="2"
 			ZoneOfControl="false"
 			Domain="DOMAIN_LAND"
+			Combat="28"
+			RangedCombat="35"
+			Range="1"
 			FormationClass="FORMATION_CLASS_LAND_COMBAT"
+			PromotionClass="PROMOTION_CLASS_RANGED"
+			AdvisorType="ADVISOR_CONQUEST"
 			Name="LOC_UNIT_SAKHA_CUSTOM_NAME"
 			Description="LOC_UNIT_SAKHA_CUSTOM_DESCRIPTION"
 			PurchaseYield="YIELD_GOLD"
-			PromotionClass="PROMOTION_CLASS_RANGED"
-			Maintenance="2"
-			Combat="28"
 			MandatoryObsoleteTech="TECH_BALLISTICS"
-			RangedCombat="28"
-			Range="1"
 			TraitType="TRAIT_CIVILIZATION_UNIT_SAKHA_CUSTOM"
-			PrereqTech="TECH_ARCHERY"/>
+			PrereqTech="TECH_THE_WHEEL"/>
 		<Row
 			UnitType="UNIT_SAKHA_CUSTOM_2"
+			Cost="160"
+			Maintenance="3"
 			BaseMoves="4"
-			Cost="160" 
-			AdvisorType="ADVISOR_CONQUEST" 
-			BaseSightRange="2" 
-			ZoneOfControl="true" 
-			Domain="DOMAIN_LAND" 
+			BaseSightRange="2"
+			ZoneOfControl="true"
+			Domain="DOMAIN_LAND"
+			Combat="50"
 			FormationClass="FORMATION_CLASS_LAND_COMBAT"
-			Name="LOC_UNIT_SAKHA_CUSTOM_2_NAME" 
-			Description="LOC_UNIT_SAKHA_CUSTOM_2_DESCRIPTION" 
-			PurchaseYield="YIELD_GOLD" 
-			PromotionClass="PROMOTION_CLASS_HEAVY_CAVALRY" 
-			Maintenance="3" 
-			Combat="45" 
-			MandatoryObsoleteTech="TECH_COMPOSITES" 
-			TraitType="TRAIT_CIVILIZATION_UNIT_SAKHA_CUSTOM_2" 
+			PromotionClass="PROMOTION_CLASS_HEAVY_CAVALRY"
+			AdvisorType="ADVISOR_CONQUEST"
+			Name="LOC_UNIT_SAKHA_CUSTOM_2_NAME"
+			Description="LOC_UNIT_SAKHA_CUSTOM_2_DESCRIPTION"
+			PurchaseYield="YIELD_GOLD"
+			MandatoryObsoleteTech="TECH_COMPOSITES"
+			TraitType="TRAIT_CIVILIZATION_UNIT_SAKHA_CUSTOM_2"
 			PrereqTech="TECH_STIRRUPS"/>
 	</Units>
 

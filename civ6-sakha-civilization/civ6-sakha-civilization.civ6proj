@@ -18,15 +18,15 @@
     <AssemblyName>civ6-sakha-civilization</AssemblyName>
     <RootNamespace>civ6-sakha-civilization</RootNamespace>
     <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="CB_Sakha"><LeaderPlayable>Players:StandardPlayers::LEADER_SAKHA_ELLEY,Players:Expansion1_Players::LEADER_SAKHA_ELLEY,Players:Expansion2_Players::LEADER_SAKHA_ELLEY</LeaderPlayable></Criteria><Criteria id="CB_Sakha_XP1"><LeaderPlayable>Players:Expansion1_Players::LEADER_SAKHA_ELLEY</LeaderPlayable></Criteria><Criteria id="CB_Sakha_XP2"><LeaderPlayable>Players:Expansion2_Players::LEADER_SAKHA_ELLEY</LeaderPlayable></Criteria></ActionCriteria>]]></ActionCriteriaData>
-    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="UpdateDatabase"><File>Core/Sakha_Config.sql</File></UpdateDatabase><UpdateIcons id="UpdateIcons"><File>Core/Sakha_Icons.xml</File></UpdateIcons><UpdateText id="UpdateText"><File>Locales/en_US.xml</File></UpdateText><UpdateArt id="UpdateArt"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="Database"><Criteria>CB_Sakha</Criteria><File>Core/Sakha_GameDefines.sql</File><File>Core/Sakha_Buildings.xml</File><File>Core/Sakha_Units.xml</File></UpdateDatabase><UpdateIcons id="Icons"><Criteria>CB_Sakha</Criteria><File>Core/Sakha_Icons.xml</File></UpdateIcons><UpdateText id="Text"><Criteria>CB_Sakha</Criteria><File>Locales/en_US.xml</File></UpdateText><UpdateArt id="Art"><Criteria>CB_Sakha</Criteria><File>(Mod Art Dependency File)</File></UpdateArt><UpdateDatabase id="UpdateDatabaseXP1"><Criteria>CB_Sakha_XP1</Criteria><File>Core/Sakha_Expansion1.sql</File></UpdateDatabase><UpdateDatabase id="UpdateDatabaseXP2"><Criteria>CB_Sakha_XP2</Criteria><File>Core/Sakha_Expansion1.sql</File><File>Core/Sakha_Expansion2.sql</File></UpdateDatabase></InGameActions>]]></InGameActionData>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="UpdateDatabase"><File>Core/Sakha_Config.sql</File></UpdateDatabase><UpdateIcons id="UpdateIcons"><File>Core/Sakha_Icons.xml</File></UpdateIcons><UpdateText id="UpdateText"><File>Locales/en_US.xml</File><File>Locales/ru_RU.xml</File></UpdateText><UpdateArt id="UpdateArt"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateColors id="UpdateColors"><File>Core/Sakha_Colors.xml</File></UpdateColors></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="Database"><Criteria>CB_Sakha</Criteria><File>Core/Sakha_GameDefines.sql</File><File>Core/Sakha_Buildings.xml</File><File>Core/Sakha_Units.xml</File></UpdateDatabase><UpdateIcons id="Icons"><Criteria>CB_Sakha</Criteria><File>Core/Sakha_Icons.xml</File></UpdateIcons><UpdateText id="Text"><Criteria>CB_Sakha</Criteria><File>Locales/en_US.xml</File><File>Locales/ru_RU.xml</File></UpdateText><UpdateArt id="Art"><Criteria>CB_Sakha</Criteria><File>(Mod Art Dependency File)</File></UpdateArt><UpdateDatabase id="UpdateDatabaseXP1"><Criteria>CB_Sakha_XP1</Criteria><File>Core/Sakha_Expansion1.sql</File></UpdateDatabase><UpdateDatabase id="UpdateDatabaseXP2"><Criteria>CB_Sakha_XP2</Criteria><File>Core/Sakha_Expansion1.sql</File><File>Core/Sakha_Expansion2.sql</File></UpdateDatabase><UpdateColors id="Colors"><File>Core/Sakha_Colors.xml</File></UpdateColors></InGameActions>]]></InGameActionData>
     <Homepage>https://github.com/carbongo/civ6-sakha-civilization</Homepage>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="Mod.Art.xml" />
+    <None Include="civ6-sakha-civilization.Art.xml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ArtDefs" />
@@ -48,6 +48,9 @@
     <Content Include="Core\Sakha_Buildings.xml">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Core\Sakha_Colors.xml">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Core\Sakha_Config.sql">
       <SubType>Content</SubType>
     </Content>
@@ -67,6 +70,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Locales\en_US.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Locales\ru_RU.xml">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\ART_LEADER_ELLEY.dds">
