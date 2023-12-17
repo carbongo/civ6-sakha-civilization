@@ -66,3 +66,14 @@ INSERT OR REPLACE INTO NamedSeaCivilizations (NamedSeaType, CivilizationType)
 VALUES 
     ('NAMED_SEA_KHARA', 'CIVILIZATION_SAKHA_CIV_CUSTOM'),
     ('NAMED_SEA_INDIGIIR', 'CIVILIZATION_SAKHA_CIV_CUSTOM');
+
+--==========================================================================================================================
+
+UPDATE Traits
+SET Description = 'LOC_TRAIT_CIVILIZATION_SAKHA_GRIND_XP2_DESCRIPTION'
+WHERE TraitType = 'TRAIT_CIVILIZATION_SAKHA_GRIND';
+
+INSERT OR REPLACE INTO TraitModifiers (TraitType, ModifierId)
+VALUES
+	('TRAIT_CIVILIZATION_SAKHA_GRIND', 'TRAIT_BLIZZARD_PREVENTION_SIGNIFICANT'),
+	('TRAIT_CIVILIZATION_SAKHA_GRIND', 'TRAIT_BLIZZARD_PREVENTION_CRIPPLING');

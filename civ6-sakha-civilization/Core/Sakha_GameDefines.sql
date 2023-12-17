@@ -229,7 +229,9 @@ VALUES	('TRAIT_CIVILIZATION_SAKHA_GRIND',						'LOC_TRAIT_CIVILIZATION_SAKHA_GRI
 INSERT INTO TraitModifiers			
 		(TraitType,											ModifierId)
 VALUES  ('TRAIT_CIVILIZATION_SAKHA_GRIND',					'TRAIT_SAKHA_SNOW_FOOD_BOOST'),
+		('TRAIT_CIVILIZATION_SAKHA_GRIND',					'TRAIT_SAKHA_SNOW_PRODUCTION_BOOST'),
 		('TRAIT_CIVILIZATION_SAKHA_GRIND',					'TRAIT_SAKHA_SNOW_HILLS_FOOD_BOOST'),
+		('TRAIT_CIVILIZATION_SAKHA_GRIND',					'TRAIT_SAKHA_SNOW_HILLS_PRODUCTION_BOOST'),
 		('TRAIT_CIVILIZATION_SAKHA_GRIND',					'TRAIT_SAKHA_TUNDRA_FOOD_BOOST'),
 		('TRAIT_CIVILIZATION_SAKHA_GRIND',					'TRAIT_SAKHA_TUNDRA_PRODUCTION_BOOST'),
 		('TRAIT_CIVILIZATION_SAKHA_GRIND',					'TRAIT_SAKHA_TUNDRA_HILLS_FOOD_BOOST'),
@@ -247,21 +249,21 @@ VALUES ('PLOT_HAS_SNOW_REQUIREMENTS_SAKHA', 'REQUIREMENTSET_TEST_ALL'),
 --------------------------------------------------------------------------------------------------------------------------
 INSERT INTO Requirements (RequirementId, RequirementType)
 VALUES ('REQUIRES_PLOT_HAS_SNOW_SAKHA', 'REQUIREMENT_PLOT_TERRAIN_TYPE_MATCHES'),
-       ('REQUIRES_PLOT_HAS_SNOW_SAKHA_HILLS', 'REQUIREMENT_PLOT_TERRAIN_TYPE_MATCHES');
+       ('REQUIRES_PLOT_HAS_SNOW_HILLS_SAKHA', 'REQUIREMENT_PLOT_TERRAIN_TYPE_MATCHES');
 		
 --------------------------------------------------------------------------------------------------------------------------
 -- RequirementArguments 
 --------------------------------------------------------------------------------------------------------------------------
 INSERT INTO RequirementArguments (RequirementId, Name, Value)
 VALUES ('REQUIRES_PLOT_HAS_SNOW_SAKHA', 'TerrainType', 'TERRAIN_SNOW'),
-       ('REQUIRES_PLOT_HAS_SNOW_SAKHA_HILLS', 'TerrainType', 'TERRAIN_SNOW_HILLS');
+       ('REQUIRES_PLOT_HAS_SNOW_HILLS_SAKHA', 'TerrainType', 'TERRAIN_SNOW_HILLS');
 
 --------------------------------------------------------------------------------------------------------------------------
 -- RequirementSetRequirements 
 --------------------------------------------------------------------------------------------------------------------------
 INSERT INTO RequirementSetRequirements (RequirementSetId, RequirementId)
 VALUES ('PLOT_HAS_SNOW_REQUIREMENTS_SAKHA', 'REQUIRES_PLOT_HAS_SNOW_SAKHA'),
-       ('PLOT_HAS_SNOW_HILLS_REQUIREMENTS_SAKHA', 'REQUIRES_PLOT_HAS_SNOW_SAKHA_HILLS');
+       ('PLOT_HAS_SNOW_HILLS_REQUIREMENTS_SAKHA', 'REQUIRES_PLOT_HAS_SNOW_HILLS_SAKHA');
 
 --------------------------------------------------------------------------------------------------------------------------
 -- Modifiers
@@ -291,13 +293,13 @@ VALUES  ('TRAIT_SAKHA_SNOW_FOOD_BOOST',					'YieldType',	'YIELD_FOOD'),
 		('TRAIT_SAKHA_SNOW_HILLS_PRODUCTION_BOOST',		'YieldType',	'YIELD_PRODUCTION'),
 		('TRAIT_SAKHA_SNOW_HILLS_PRODUCTION_BOOST',		'Amount',		'2'),
 		('TRAIT_SAKHA_TUNDRA_FOOD_BOOST',				'YieldType',	'YIELD_FOOD'),
-		('TRAIT_SAKHA_TUNDRA_FOOD_BOOST',				'Amount',		'2'),
+		('TRAIT_SAKHA_TUNDRA_FOOD_BOOST',				'Amount',		'1'),
 		('TRAIT_SAKHA_TUNDRA_PRODUCTION_BOOST',			'YieldType',	'YIELD_PRODUCTION'),
-		('TRAIT_SAKHA_TUNDRA_PRODUCTION_BOOST',			'Amount',		'2'),
+		('TRAIT_SAKHA_TUNDRA_PRODUCTION_BOOST',			'Amount',		'1'),
 		('TRAIT_SAKHA_TUNDRA_HILLS_FOOD_BOOST',			'YieldType',	'YIELD_FOOD'),
-		('TRAIT_SAKHA_TUNDRA_HILLS_FOOD_BOOST',			'Amount',		'2'),
+		('TRAIT_SAKHA_TUNDRA_HILLS_FOOD_BOOST',			'Amount',		'1'),
 		('TRAIT_SAKHA_TUNDRA_HILLS_PRODUCTION_BOOST',	'YieldType',	'YIELD_PRODUCTION'),
-		('TRAIT_SAKHA_TUNDRA_HILLS_PRODUCTION_BOOST',	'Amount',		'2');
+		('TRAIT_SAKHA_TUNDRA_HILLS_PRODUCTION_BOOST',	'Amount',		'1');
 
 
 --------------------------------------------------------------------------------------------------------------------------

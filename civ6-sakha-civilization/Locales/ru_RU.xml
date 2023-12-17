@@ -483,7 +483,10 @@
 			<Text>Северная Устойчивость</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_SAKHA_GRIND_DESCRIPTION" Language="ru_RU">
-			<Text>+2 [Icon_Food] Еды и +2 [Icon_Production] Производства с участков Тундры, Тундры с холмами, Снега и Снега с холмами.</Text>
+			<Text>+2 [Icon_Food] пищи и +2 [Icon_Production] производства в снежной местности. +1 [Icon_Food] пищи и +1 [Icon_Production] производства в тундровой местности.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SAKHA_GRIND_XP2_DESCRIPTION" Language="ru_RU">
+			<Text>+2 [Icon_Food] пищи и +2 [Icon_Production] производства в снежной местности. +1 [Icon_Food] пищи и +1 [Icon_Production] производства в тундровой местности. Юниты не получают урона от снежных бурь.</Text>
 		</Row>
 
 
