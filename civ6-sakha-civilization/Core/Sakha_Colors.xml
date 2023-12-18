@@ -5,30 +5,42 @@
 <GameData>
 	<Colors>
 		<Row>
+			<Type>COLOR_PLAYER_SAKHA_BLUE</Type>
+			<Color>24,144,170,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_SAKHA_DARK_BLUE</Type>
+			<Color>0,129,157,255</Color>
+		</Row>
+		<Row>
 			<Type>COLOR_PLAYER_SAKHA_LIGHT_BLUE</Type>
-			<Color>46,159,197,255</Color>
+			<Color>115,230,255,255</Color>
 		</Row>
 		<Row>
 			<Type>COLOR_PLAYER_SAKHA_WHITE</Type>
-			<Color>254,254,254,255</Color>
+			<Color>249,249,249,255</Color>
 		</Row>
 		<Row>
-			<Type>COLOR_PLAYER_SAKHA_BROWN</Type>
-			<Color>135,96,0,255</Color>
+			<Type>COLOR_PLAYER_SAKHA_DARK_BROWN</Type>
+			<Color>83,63,44,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_SAKHA_DARK_GREEN</Type>
+			<Color>8,45,20,255</Color>
 		</Row>
 	</Colors>
 	<PlayerColors>
 		<Row>
 			<Type>LEADER_SAKHA_ELLEY</Type>
 			<Usage>Unique</Usage>
-			<PrimaryColor>COLOR_PLAYER_SAKHA_LIGHT_BLUE</PrimaryColor>
+			<PrimaryColor>COLOR_PLAYER_SAKHA_BLUE</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_SAKHA_WHITE</SecondaryColor>
 			<Alt1PrimaryColor>COLOR_PLAYER_SAKHA_WHITE</Alt1PrimaryColor>
-			<Alt1SecondaryColor>COLOR_PLAYER_SAKHA_LIGHT_BLUE</Alt1SecondaryColor>
-			<Alt2PrimaryColor>COLOR_PLAYER_SAKHA_BROWN</Alt2PrimaryColor>
+			<Alt1SecondaryColor>COLOR_PLAYER_SAKHA_DARK_BLUE</Alt1SecondaryColor>
+			<Alt2PrimaryColor>COLOR_PLAYER_SAKHA_DARK_BROWN</Alt2PrimaryColor>
 			<Alt2SecondaryColor>COLOR_PLAYER_SAKHA_LIGHT_BLUE</Alt2SecondaryColor>
-			<Alt3PrimaryColor>COLOR_PLAYER_SAKHA_LIGHT_BLUE</Alt3PrimaryColor>
-			<Alt3SecondaryColor>COLOR_PLAYER_SAKHA_BROWN</Alt3SecondaryColor>
+			<Alt3PrimaryColor>COLOR_PLAYER_SAKHA_DARK_GREEN</Alt3PrimaryColor>
+			<Alt3SecondaryColor>COLOR_PLAYER_SAKHA_LIGHT_BLUE</Alt3SecondaryColor>
 		</Row>
 	</PlayerColors>
 </GameData>

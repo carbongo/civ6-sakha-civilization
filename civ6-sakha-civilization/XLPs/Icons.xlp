@@ -54,10 +54,6 @@
 			<m_ObjectName text="ICON_SAKHA_CUSTOM_64"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_SAKHA_CUSTOM_55"/>
-			<m_ObjectName text="ICON_SAKHA_CUSTOM_55"/>
-		</Element>
-		<Element>
 			<m_EntryID text="ICON_SAKHA_CUSTOM_50"/>
 			<m_ObjectName text="ICON_SAKHA_CUSTOM_50"/>
 		</Element>
@@ -66,16 +62,12 @@
 			<m_ObjectName text="ICON_SAKHA_CUSTOM_48"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_SAKHA_CUSTOM_45"/>
-			<m_ObjectName text="ICON_SAKHA_CUSTOM_45"/>
-		</Element>
-		<Element>
 			<m_EntryID text="ICON_SAKHA_CUSTOM_44"/>
 			<m_ObjectName text="ICON_SAKHA_CUSTOM_44"/>
 		</Element>
 		<Element>
-			<m_EntryID text="ICON_SAKHA_CUSTOM_32"/>
-			<m_ObjectName text="ICON_SAKHA_CUSTOM_32"/>
+			<m_EntryID text="ICON_SAKHA_CUSTOM_36"/>
+			<m_ObjectName text="ICON_SAKHA_CUSTOM_36"/>
 		</Element>
 		<Element>
 			<m_EntryID text="ICON_SAKHA_CUSTOM_30"/>

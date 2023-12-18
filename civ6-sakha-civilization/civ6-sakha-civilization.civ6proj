@@ -5,7 +5,7 @@
     <Name>Sakha Civilization Mod</Name>
     <Guid>4ddbd9e1-5dca-41ab-ad76-58a61012c262</Guid>
     <ProjectGuid>9910bb96-9bf8-4679-9096-5d09dfbcd51d</ProjectGuid>
-    <ModVersion>2</ModVersion>
+    <ModVersion>3</ModVersion>
     <Teaser>The most legendary Turkic civilization is now available in Sid Meier's Civilization VI.</Teaser>
     <Description>The most legendary Turkic civilization is now available in Sid Meier's Civilization VI.</Description>
     <Authors>carbongo</Authors>
@@ -66,6 +66,9 @@
     <Content Include="Core\Sakha_Icons.xml">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Core\Sakha_ModSupport.sql">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Core\Sakha_Units.xml">
       <SubType>Content</SubType>
     </Content>
@@ -111,12 +114,6 @@
     <Content Include="Textures\ICON_SAKHA_CUSTOM_30.tex">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ICON_SAKHA_CUSTOM_32.dds">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\ICON_SAKHA_CUSTOM_32.tex">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="Textures\ICON_SAKHA_CUSTOM_36.dds">
       <SubType>Content</SubType>
     </Content>
@@ -129,12 +126,6 @@
     <Content Include="Textures\ICON_SAKHA_CUSTOM_44.tex">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Textures\ICON_SAKHA_CUSTOM_45.dds">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\ICON_SAKHA_CUSTOM_45.tex">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="Textures\ICON_SAKHA_CUSTOM_48.dds">
       <SubType>Content</SubType>
     </Content>
@@ -145,12 +136,6 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\ICON_SAKHA_CUSTOM_50.tex">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\ICON_SAKHA_CUSTOM_55.dds">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Textures\ICON_SAKHA_CUSTOM_55.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\ICON_SAKHA_CUSTOM_64.dds">
